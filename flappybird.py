@@ -46,7 +46,7 @@ class tubi_classe:
         if uccello_lato_dx > tubi_lato_dx and uccello_lato_sx < tubi_lato_sx:
             return True
 
-def disegna_bosschebaciagakerxdlol():
+def disegna_oggetti():
     SCHERMO.blit(sfondo, (0,0))
     for t in tubi:
         t.avanza_e_disegna()
@@ -118,5 +118,5 @@ while True:
         
     if uccelloy > 380:
         hai_perso()
-    disegna_bosschebaciagakerxdlol()
+    disegna_oggetti()
     aggiorna_schermo()
