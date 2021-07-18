@@ -1,4 +1,4 @@
-# How to try my
+# How To Try My
 # Flappy Bird Game
 
 
