@@ -1,6 +1,8 @@
 # Flappy Bird
 
-● Dowloand "flappybird.py" from this repo
+● Dowloand "flappybird.py" and "immagini.zip" from this repo
+
+● Extract files from the "immagini.zip"
 
 ● Dowloand "Pygame" Lib With "pip install pygame"
 
