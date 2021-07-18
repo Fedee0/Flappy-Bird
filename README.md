@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy Bird
 
 ● Dowloand "flappybird.py" from this repo
 
