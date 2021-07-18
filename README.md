@@ -8,8 +8,6 @@
 
 ● In Line >7,8,9,10,11,12< Change the root for take the files EXAMPLE (C:/Users/(yourname)/Desktop/immagini/sfondo.png) 
 
-●
-
 ● Dowloand "Pygame" Lib With "pip install pygame"
 
 ● Open The File With Any Software examples(Idle,Atom,VSC)
